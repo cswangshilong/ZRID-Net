@@ -1,5 +1,5 @@
 # ZRID-Net
-ZRID-Net: Zero-Reference Real-World Image  Dehazing Framework via Deep Self-Decoupling and  Reverse Knowledge Transfer
+ZRID-Net: Zero-Reference Real-World Image  Dehazing Framework via Deep Self-Decoupling and  Reverse Knowledge Transfer (TCSVT'2025)
 
 Authors: Shilong Wang, Wenqi Ren, Peng Gao, Jiguo Yu, Jianlei Liu
 
